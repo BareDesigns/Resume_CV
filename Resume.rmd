@@ -1,8 +1,57 @@
 ---
-title: Resume
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Documents/Resume/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
 author: Jonathan Nguyen
-output: pdf_document
+
+jobtitle: "Record Specialist"
+address: "1813 Oakbranch Dr., Pearland TX, 77581"
+fontawesome: yes
+email: Jon.Nguyen@pm.me 
+gitlab: jonguyen 
+phone: "(713) 557-3595"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
 ---
 
+# Education
 
-Add resume information here
+* B.S. Computer Science (In Progress) - Western Governors University
+* A.S. Computer Science (2017) - San Jacinto College
+* *A.A. General Studies (2017) - San Jacinto College
+
+# Employment
+
+## San Jacinto College
+
+Records Specialist \hfill 02/16 - Present  
+
+> The job duties included processing electronic transcripts, evaluations, and special projects. Other duties consisted of writing scripts, streamlining work processes, and increasing productivity.
+
+Student Account Specialist \hfill 06/14 - 04/16 
+
+> The duties of the role were fulfilling payment contracts, managing the cash drawer, processing student payment transactions, and running reports for other offices in the college.   
+
+# Knowledge
+
+*Programming Languages*  
+
+* Medium: Autohotkey, Python, Markdown, \LaTeX
+* Novice: SQL, R 
+
+# References
+
+Joan Rondot, *Supervisor* - (713) 805-0897  
+Barbara Ewell, *Colleague* - (281) 731-6586  
+Sherry Gray, *Co-worker* - (832) 621-7040
