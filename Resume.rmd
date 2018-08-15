@@ -5,4 +5,4 @@ output: pdf_document
 ---
 
 
-<!-- Add resume information here -->
+Add resume information here
