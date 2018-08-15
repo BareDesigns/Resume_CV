@@ -29,7 +29,7 @@ urlcolor: blue
 
 * B.S. Computer Science (In Progress) - Western Governors University
 * A.S. Computer Science (2017) - San Jacinto College
-* *A.A. General Studies (2017) - San Jacinto College
+* A.A. General Studies (2017) - San Jacinto College
 
 # Employment
 
