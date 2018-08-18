@@ -11,7 +11,7 @@ author: Jonathan Nguyen
 jobtitle: "Record Specialist"
 address: "1813 Oakbranch Dr., Pearland TX, 77581"
 fontawesome: yes
-email: Jon.Nguyen@pm.me 
+email: Jon.P.Nguyen@pm.me 
 gitlab: jonguyen 
 phone: "(713) 557-3595"
 updated: no
