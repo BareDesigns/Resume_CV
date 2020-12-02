@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Jonathan Nguyen
 
-jobtitle: "Record Specialist"
+jobtitle: "Business Office Supervisor"
 address: "1813 Oakbranch Dr., Pearland TX, 77581"
 fontawesome: yes
 email: Jon.P.Nguyen@pm.me 
@@ -35,7 +35,11 @@ urlcolor: blue
 
 ## San Jacinto College
 
-Records Specialist \hfill 02/16 - Present  
+Business Office Supervisor \hfill 10/20 - Present
+
+> A management position that includes duties such as vault auditing, mass student reporting, managing staff, and various projects as needed. Other duties include cashiering, daily reports, and handling student concerns.
+
+Records Specialist \hfill 02/16 - 10/20 
 
 > The job duties included processing electronic transcripts, evaluations, and special projects. Other duties consisted of writing scripts, streamlining work processes, and increasing productivity.
 
