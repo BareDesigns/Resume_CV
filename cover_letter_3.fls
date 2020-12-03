@@ -1,0 +1,6 @@
+PWD /Users/jon/Documents/Resume_CV
+INPUT /Users/jon/Library/TinyTeX/texmf.cnf
+INPUT /Users/jon/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/jon/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/jon/Documents/Resume_CV/cover_letter_3.tex
+OUTPUT /Users/jon/Documents/Resume_CV/cover_letter_3.log

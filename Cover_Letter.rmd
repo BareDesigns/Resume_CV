@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Documents/Resume_CV/svm-latex-cv.tex
+    template: ~/Documents/Resume_CV/cover_letter_3.tex
 geometry: margin=1in
 
 title: "CV"
